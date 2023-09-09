@@ -1,0 +1,44 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;   
+} 
+ 
+ul li { 
+    list-style: none; 
+} 
+ 
+.d-flex { 
+    display: flex; 
+} 
+ 
+.j-between { 
+    justify-content: space-between; 
+} 
+ 
+.items-center { 
+    align-items: center; 
+} 
+ 
+.container { 
+    max-width: 1050px; 
+    margin: 0 auto; 
+    /* border: 1px solid red;  */
+} 
+ 
+.btn { 
+    padding: 15px 25px; 
+    border-radius: 5px; 
+    background-color: #96bb7c; 
+    border: 0; 
+    color: white; 
+    font-weight: 700; 
+} 
+ 
+.btn span { 
+    margin-left: 15px; 
+}
+
+
+
+
