@@ -1,0 +1,40 @@
+/* header style */
+
+
+.header {
+    padding-top: 16px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo {
+    margin-right: 78px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #252b42;
+}
+
+.header-menu li {
+    margin-right: 21px;
+    color: #737373;
+    font-weight: 700;
+}
+
+.header-menu li :last-child {
+    margin-right: 0;
+}
+
+.header-login a {
+    color: #96bb7c;
+    font-weight: 700;
+    margin-right: 45px;
+    text-decoration: none;
+}
+
+.header-btn {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+
