@@ -1,0 +1,23 @@
+.tema{
+    width: 323px;
+    height: 40px;
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+    max-width: 1128px;
+    margin: 0 auto;
+  
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.img-1 {
+    width: Hug (360px);
+    height: Hug (300px);
+    top: 1247px;
+    left: 156px;
+}
